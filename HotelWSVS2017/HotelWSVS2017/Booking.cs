@@ -9,6 +9,7 @@ namespace HotelWSVS2017
     [Table("Booking")]
     public partial class Booking
     {
+        //test
         [Key]
         public int Booking_id { get; set; }
 
